@@ -54,8 +54,8 @@ OnScreenRulerWidget(
 ```
 You still can enable the virtual ruler by double tap on top of the screen
 
-![image info](https://github.com/aldychris/on_screen_ruler/blob/master/screenshot/Img1.png?raw=true)
-![image info](https://github.com/aldychris/on_screen_ruler/blob/master/screenshot/Img2.png?raw=true)
+![image info](https://github.com/aldychris/on_screen_ruler/blob/master/screenshot/img1.png?raw=true)
+![image info](https://github.com/aldychris/on_screen_ruler/blob/master/screenshot/img2.png?raw=true)
 
 #### Widget Option
 Key | Type | Default | Description

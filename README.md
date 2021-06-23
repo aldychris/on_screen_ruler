@@ -14,7 +14,7 @@ dependencies:
 #### 2. Install
 Install with:
 ```
-flutter packages get
+flutter pub get
 ```
 #### 3. Import
 ```
